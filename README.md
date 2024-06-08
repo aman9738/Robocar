@@ -20,7 +20,7 @@ This project is a Raspberry Pi-based robocar that provides manual control, obsta
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bhavikajangid1/final-year-project.git
+git clone https://github.com/aman9738/Robocar.git
 cd final-year-project
 ```
 ### 2. Install Dependencies
